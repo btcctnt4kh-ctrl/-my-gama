@@ -1,1 +1,14 @@
-# -my-gama
+index.html
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Game</title>
+</head>
+
+<body>
+    <h1>مرحبًا 👋</h1>
+    <p>هذه أول نسخة من لعبتي.</p>
+</body>
+</html>
